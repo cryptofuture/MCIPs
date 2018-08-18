@@ -10,7 +10,7 @@
 Pay the difference between $0.01 and 1mc, when 1mc cost less than $0.01
 
 ## Abstract
-A short (~200 word) description of the technical issue being addressed.
+Pay extra compensation to musicians along with PPP, when PPP is less than $0.01 per play
 
 ## Motivation
 Currently we can't provide the compensation lvl we like for musicoins when 1mc price (current default PPP license values) is lower than $0.01
